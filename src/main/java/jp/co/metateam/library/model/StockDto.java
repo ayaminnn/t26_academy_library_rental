@@ -1,7 +1,7 @@
 package jp.co.metateam.library.model;
 
 import java.security.Timestamp;
-import java.util.List;
+
 
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
